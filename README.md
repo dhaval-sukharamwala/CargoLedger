@@ -6,7 +6,7 @@ Designing an intuitive, efficient invoicing experience for enterprise users mana
 
 ---
 
-## Visual Overview
+## 📊 Visual Overview
 
 ![Visual Learning](CargoLedger.png)
 
