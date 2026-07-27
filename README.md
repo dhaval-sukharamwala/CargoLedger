@@ -6,6 +6,12 @@ Designing an intuitive, efficient invoicing experience for enterprise users mana
 
 ---
 
+## Visual Overview
+
+![Visual Learning](CargoLedger.png)
+
+---
+
 ## 🎯 The Challenge
 
 Logistics companies manage hundreds of shipments monthly, each generating invoices with complex billing rules, discounts, and payment terms. The existing system was:
