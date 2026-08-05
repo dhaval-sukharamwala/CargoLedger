@@ -4,7 +4,7 @@
 
 Designing an intuitive, efficient invoicing experience for enterprise users managing shipment billing, payment reconciliation, and financial reporting in the logistics supply chain.
 
-**[Open the interactive case study →](https://dhaval-sukharamwala.github.io/CargoLedger/)**
+🚀  **[View the live case study →](https://dhaval-sukharamwala.github.io/CargoLedger/)**
 
 ---
 
