@@ -4,6 +4,8 @@
 
 Designing an intuitive, efficient invoicing experience for enterprise users managing shipment billing, payment reconciliation, and financial reporting in the logistics supply chain.
 
+**[Open the interactive case study →](https://dhaval-sukharamwala.github.io/CargoLedger/)**
+
 ---
 
 ## 📊 Visual Overview
@@ -53,7 +55,7 @@ CargoLedger presents a **three-layer design approach:**
 ✅ **Payment Matching** — Automatic reconciliation with exception handling  
 ✅ **Comprehensive Reporting** — Revenue, aging, and collection insights  
 ✅ **Mobile-friendly Design** — Access invoicing on the go  
-✅ **Audit Trail** — Complete history of all invoice changes  
+✅ **Audit Trail** — Complete history of all invoice changes
 
 ---
 
